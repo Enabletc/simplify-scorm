@@ -1,1 +1,1 @@
-module.exports = require('./src/baseAPI').BaseAPI;
+module.exports = require('./src/baseAPI');
