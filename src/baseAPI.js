@@ -203,5 +203,5 @@ module.exports = function(scope) {
     scope.lastErrorCode = String(errorNumber);
   }
 
-  return scormAPI;
+  return scormAPI();
 };
